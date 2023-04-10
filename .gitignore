@@ -5,4 +5,4 @@ terraform-provider-fakewebservices
 # To help with local development
 terraform.tfstate
 terraform.tfstate.backup
-crash.log
+crash.logchanging_this_one_line_to_create_bc_branch_with_batch_changes
